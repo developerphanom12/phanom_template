@@ -43,6 +43,11 @@ import WebDevelopment from "./components/Serv/WebDevelopment/Webdevelopment";
 import Java from "./components/Serv/Java/Java";
 import Magento from "./components/Serv/Magento/Magento";
 import GraphicDesign from "./components/Serv/GraphicDesign/GraphicDesign";
+import WebsiteDesign from "./components/Serv/WebsiteDesign/WebsiteDesign";
+import RotoScoping from "./components/Serv/RotoScoping/RotoScoping";
+import Animation from "./components/Serv/Animation/Animation";
+import ECommerceMarketing from "./components/Serv/ECommerceMarketing/ECommerceMarketing";
+
 
 function App() {
   useWow();
@@ -109,6 +114,10 @@ function App() {
         <Route path="java" element={<Java/>}/>
         <Route path="magento" element={<Magento/>}/>
         <Route path="graphicdesign" element={<GraphicDesign/>}/>
+        <Route path="websitedesign" element={<WebsiteDesign/>}/>
+        <Route path="rotoScoping" element={<RotoScoping/>}/>
+        <Route path="animation" element={<Animation/>}/>
+        <Route path="ecommercemarketing" element={<ECommerceMarketing/>}/>
       </Routes>
     </>
   );
