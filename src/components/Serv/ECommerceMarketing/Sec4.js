@@ -4,10 +4,6 @@ import bb from "../../../assets/img/custom/bb.jpg";
 import cc from "../../../assets/img/custom/cc.png";
 import aa from "../../../assets/img/custom/aa.png";
 
-
-
-
-
 function Sec4() {
   return (
     <section className="about-area-three">
@@ -27,7 +23,6 @@ function Sec4() {
                 data-aos="fade-left"
                 data-aos-delay="400"
               />
-
             </div>
           </div>
 
@@ -36,26 +31,29 @@ function Sec4() {
               <div className="section-title-two mb-20 tg-heading-subheading animation-style3">
                 {/* <span className="sub-title">Get To know US</span> */}
                 <h2 className="title tg-element-title">
-                Get Our unrestricted Pitch</h2>
-
+                  Get Our unrestricted Pitch
+                </h2>
               </div>
               <p className="info-one">
-              Every business is growing rapidly thanks to digital marketing services, and there are many websites that are proliferating at work speed and with high-end resolutions and customer retention. Many E-commerce businesses are making greater sales, and this could only be possible by increasing their marketing reach and brand awareness.              </p>
+                The Blessing of the Lord brings wealth without painful toil for
+                it.
+              </p>
 
-
-                  <p className="info-one">If a business is not growing faster on online portals, there could be some scarcity of resources and advertising tools as well as digital marketing channels. This positive can be replenished with our strategic planning to give great progress to your business with our Best Pay Per Click Services.</p>
- 
-
-
+              <p className="info-one">
+                Phanom Professional can perform as a valuable platform for all
+                that chunks that is required by your business to be on the track
+                of your “to be the Brand” journey. The platform that can create
+                an interface among your consumers to get in-touch with you and
+                your services. Nothing less but a great opportunity for making
+                an online best market.
+              </p>
             </div>
           </div>
         </div>
       </div>
       <div className="about-shape-wrap-two">
-      <img src={aa} alt="img" />
-         <img src={cc} alt="img" />
-        
-
+        <img src={aa} alt="img" />
+        <img src={cc} alt="img" />
       </div>
     </section>
   );

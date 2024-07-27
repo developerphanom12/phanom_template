@@ -10,34 +10,16 @@ function Sec8() {
           <div className="col-lg-7">
             <div className="about-content">
               <div className="section-title mb-25 tg-heading-subheading animation-style2">
-                <h2 className="title tg-element-title">PAY-PER-CLICK</h2>
+                <h2 className="title tg-element-title">OPEN UP STRAGLULATIONS FOR BONDING WITH YOUR CUSTOMERS</h2>
               </div>
 
               <p>
-                With the use of pay per click advertising, tasks or performing
-                best become easier because PPC advertising allows your business
-                to take complete charge of the ad spend and it is the thrifty
-                way to reach your targeted audience easily. In a short span of
-                time and in the right place, it helps to bring more customers to
-                your platform.{" "}
+              Have valued outcomes for your company. Gathering quality customers and generating targeted traffic can be a more challenging task to tackle for business owners. It is now possible to attract more customers by building your own online business. Because in traditional business, there are many complexities to growing and meeting the demands of customers on their doorstep. Our e-commerce marketing solution can be tailored to the needs and requirements of the customers and can take them to massive levels. We are also into making use of cross-channel digital marketing strategies. This can lead to meeting your marketing goals with high optimization methods.
+
               </p><br/>
 
-              <p>
-                Building brand awareness and increasing the credibility rate
-                directly increase the probability of getting more conversions,
-                and this can also be intensified with the help of pay-per-click
-                advertising services.{" "}
-              </p><br/>
 
-              <p>
-                If a business wants to grow online, working on the proper
-                strategies and planning can help in achieving Kuwait and
-                targeted results. Therefore, the SCO and PPC advertising
-                strategies give maximum output for your business reach, and you
-                can easily deliver the long-term benefits to your customers.
-                Using digital marketing services, promoting your brands and
-                products can directly generate a good rate of conversion.
-              </p><br/>
+
             </div>
           </div>
           <div className="col-lg-5">

@@ -28,26 +28,12 @@ function Sec11() {
             <div className="overview-content">
               <div className="section-title-two mb-20 tg-heading-subheading animation-style3">
                 {/* <span className="sub-title">Company Overview</span> */}
-                <h2 className="title tg-element-title">
+                {/* <h2 className="title tg-element-title">
                 WHAT IS PAY PER CLICK AND HOW DOES IT WORK?
-                </h2>
+                </h2> */}
                 <p className="info-one">
-                Expand your business using optimised paid search campaigns.
-              </p>
-                <h2 className="title tg-element-title">
-                GET ADVANCED PPC MARKETING SERVICES.
-                </h2>
-
-                <p className="info-one">
-                Many businesses are in the market in industry and they have completely grown with a high conversion rate. This could be only possible using digital marketing services because everything is completely digital in today’s time. Along with this, most of the users do most of their shopping online, and they mostly prefer other online platforms for their convenience.
-              </p>
-              <p className="info-two">
-              As a result, businesses are focusing on how to provide their customers with a better reach in less time, based on their level of inconvenience. If your customers are pleased with your services, your brand’s identity or awareness will undoubtedly grow rapidly. But to do all this process, many businesses prefer some good marketing plans that help to boost their sales and give a nurtured customer list to them.
-              </p>
-
-              <p className="info-two">
-              So, with the help of digital platforms, pay per click has completely become one of the most widely used strategies for building the best businesses in the market and top-level industries that are booming in less time. It can also generate a higher ROI and it can easily ramp up your business.
-              </p>
+                We have many marketing strategies that can bring a new fire to your business with great intensification. To create organic revenue and have a ranking position in the search engine, many tactics need to be applied. In a day, growth is not possible, but we strive to make instant results with the highest possible result value. Our market specialists are always ready to be engaged in making great profits and market growth for businesses. Choose us to entrust your marketing and e-commerce campaign with us.              </p>
+              
               </div>
         
               {/* <div className="content-bottom">

@@ -29,26 +29,13 @@ function Sec7() {
             aria-controls="panel1-content"
             id="panel1-header"
           >
-            <Typography>1. How Outsourcing To A Java Web Development Company Toil?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
             <Typography>
-            For your requirements and assess the project scope our SME will get in touch to understand. We will propose you our suitable engagement models to choose from. We begin immediately after the signing of the contract.
+              1. What Benefits Are There Under Magento Framework?
             </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>2. If I Don’t Have Much Acquainted Of Java Can I Still Outsource Java Mobile App Development?</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-            Yes, you absolutely can. We are happy to assist in Java development for your company. Our SMEs will assist
+            Better design, CSS processing, as well as reduce upgrade and installation efforts which provides better performance.
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -60,72 +47,12 @@ function Sec7() {
             id="panel1-header"
           >
             <Typography>
-              3. Can I Hire Java Developer On A Full-Time Basis?
+              2. How Much Time It Will Take To Prepare A Magento Based Project?
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-            Yes, you can. As an experienced Java web development company, we provide ready-to-hire skilled resources that are highly experienced in Java and related technologies for project development, on a full-time basis.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>4. How Much Does It Cost To Outsource The Project To A Java Mobile App Development Firm?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-            The cost of the project depends on multiple factors— project scope, technology stack, required, hours, engagement prototype, objective, and many more.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>5. How Can I’ll Be Able To Assess The Progress Of My Java Mobile App Development Project?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-            We will be regularly communicating regarding the project progress to clients, concerned teams, managers, and other stakeholders, we provide login information for assessing real-time progress.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>6. How Long It Take To Go Live With A Custom Project?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-            Depending on the scope &the project duration from a few weeks to a few months. We follow the Responsive development approach to deliver the project on time.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>7. Can You Help If I Want To Hire Java Developers For My Ongoing Project?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-            Sure, we can and will offer suitable engagement models.
+            On an average the time period reach up to six month. Rather it depends on the type of project
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -137,15 +64,104 @@ function Sec7() {
             id="panel1-header"
           >
             <Typography>
-              8. What Supportdoes Java Development Company Offer On Post-Development?
+              3. How Much Does Magento Development Cost?
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-            Yes we do. Our extended software protection plans, helps post-development maintenance, and updates. We also offer support for case-by-case basis.
+            Costing is fixed and based on project modification and customisation.
+
+
             </Typography>
           </AccordionDetails>
         </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              4. Can I Be Able To Use Magneto Based Website After Implementation?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+            Surely, with the assistance of our team customer training is provided to get use to the website.
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              5. What Payment Gateways Are Magento-Compatible?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+            All payment options for your Magento-based website development are included in our payment gateway list. Join our free consulting session to know more at 78891-45109.
+
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              6. Where Can I Get Magento-Specific Extensions And Add-Ons?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+            Magento connect marketplace is the only place where you can find extensions, add-ons, and payment integrations. Join our free consulting session to know more at 78891-45109
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              7. What Should I Do If I Have Trouble Downloading And Using Magento?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+            Our Magento project experience team is completely available to assist you with any support and issue related to installation problems. Join our free consulting session to know more at 78891-45109
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              8. What Are The Advantages Of Open Source?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+            With the help of Open Source platforms there will be more security, innovation, agility, quality and customization and all that will be at a thrifty price. Join our free consulting session to know more at 78891-45109
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
       </div>
     </Root>
   );

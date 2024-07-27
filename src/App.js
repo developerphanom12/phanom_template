@@ -41,12 +41,16 @@ import YoutubeMarketing from "./components/Serv/YoutubeMarketing/YoutubeMarketin
 import PayPerClick from "./components/Serv/PayPerClick/PayPerClick";
 import WebDevelopment from "./components/Serv/WebDevelopment/Webdevelopment";
 import Java from "./components/Serv/Java/Java";
+import Shopify from "./components/Serv/Shopify/Shopify";
 import Magento from "./components/Serv/Magento/Magento";
 import GraphicDesign from "./components/Serv/GraphicDesign/GraphicDesign";
 import WebsiteDesign from "./components/Serv/WebsiteDesign/WebsiteDesign";
 import RotoScoping from "./components/Serv/RotoScoping/RotoScoping";
 import Animation from "./components/Serv/Animation/Animation";
 import ECommerceMarketing from "./components/Serv/ECommerceMarketing/ECommerceMarketing";
+import AmazonMarketing from "./components/Serv/AmazonMarketing/AmazonMarketing";
+import Wordpress from "./components/Serv/Wordpress/Wordpress";
+import Php from "./components/Serv/Php/Php";
 
 
 function App() {
@@ -112,12 +116,20 @@ function App() {
         <Route path="payperclick" element={<PayPerClick/>}/>
         <Route path="webdevelopment" element={<WebDevelopment/>}/>
         <Route path="java" element={<Java/>}/>
+        <Route path="shopify" element={<Shopify/>}/>
         <Route path="magento" element={<Magento/>}/>
         <Route path="graphicdesign" element={<GraphicDesign/>}/>
         <Route path="websitedesign" element={<WebsiteDesign/>}/>
         <Route path="rotoScoping" element={<RotoScoping/>}/>
         <Route path="animation" element={<Animation/>}/>
         <Route path="ecommercemarketing" element={<ECommerceMarketing/>}/>
+        <Route path="amazonmarketing" element={<AmazonMarketing/>}/>
+        <Route path="wordpress" element={<Wordpress/>}/>
+        <Route path="Php" element={<Php/>}/>
+
+
+
+
       </Routes>
     </>
   );

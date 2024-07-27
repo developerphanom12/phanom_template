@@ -29,46 +29,12 @@ function Sec12() {
             aria-controls="panel1-content"
             id="panel1-header"
           >
-            <Typography>1. What is PPC campaign?</Typography>
+            <Typography>1. What is an E-Commerce website?</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-              PPC campaigns or Pay-per-click campaigns is a wholesome concept to
-              effective advertisements. From adding PPC keywords to negative
-              keywords, split ad words, reviewing costly PPC keywords and
-              refining landing pages, PPC campaigns make sure that every bit of
-              an ad is constructed properly. If you are concentration more on
-              paid search account, campaigns play a selective and highest-level
-              role. Bing Ads or single Ad Words may account for only one
-              campaign. PPC campaign demands logic, relevancy, and organized
-              content for placing the bids at high stakes. If any of the three
-              elements fall short, then it would not draw traffic. Paid search
-              management campaigns can also be ensured through online services.{" "}
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>2. Why should we use PPC marketing?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-              PPC marketing is an exclusive nomenclature for people to search
-              for your products or search engines or services. You should use
-              Pay-per-click marketing not because it will earn you money but
-              because it will let the viewers receive the ads strategically. PPC
-              advocates marketing to search for your business. It can yield you
-              immediate results. The entire working of the PPC marketing depends
-              on the first look. If you get into a store and obtain at first
-              sight that you have desired for, it will make you happy.
-              Similarly, PPC marketing enables searchers to view what they have
-              typed. PPC marketing pulls in quality traffic. Pay-per-click
-              marketing increases lead to revenue and sales.
+              An E-Commerce website is an online real-time store where you can
+              buy or sell products electronically.
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -80,25 +46,16 @@ function Sec12() {
             id="panel1-header"
           >
             <Typography>
-              3. How much time it takes to launch a PPC campaign?
+              2. What is the best E-Commerce website builder?
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-              PPC campaigning performance depends on the goals you have fixed
-              for your website. According to surveys and technological analysts,
-              a minimum period of 3 months will be required to ramp results. As
-              PPC works in the short term strategy, so a minimum of three months
-              is required to run your campaigns for Pay-per-click. As Google’s
-              algorithm is complex and strict, in the first week, your account
-              will be analyzed by Google, which will affect your performance.
-              The three months periodic time will include constant campaign
-              budget management, exploring new keywords to expand your account,
-              adjusting keyword bids to get a read on performance, engagement
-              and costs, test new ad copy and ad extensions, identification of
-              new genres to direct and bid on your accounts like demographics,
-              devices, and locations. After this, you can take more time to dive
-              into results directly.
+              To create a professional website, think through the E-Commerce
+              store features you need to start selling online, like a unique
+              store-front, secure online payments and more. Next, think about
+              pricing. Choose the price idea that best suits your business to
+              start retailing online.
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -109,101 +66,16 @@ function Sec12() {
             aria-controls="panel1-content"
             id="panel1-header"
           >
-            <Typography>4. How does PPC help my business to grow?</Typography>
+            <Typography>3. How can I build an E-Commerce website?</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-              The benefits of PPC can be outlined in various ways. There are
-              some proven pints that amount to successful search engine
-              marketing strategy. PPC yields fast results, which are much needed
-              for small businesses to grow. PPC is the fastest way to run an
-              advertising campaign to get instant results. As you can measure
-              the profits, costs, visits, and clicks, you can learn how much you
-              have spent and is it a loss or profit. You need to determine this
-              that helps in growing on the faulty part. PPC campaign formulates
-              that particular segment that needs to be set in for right
-              audiences. PPC recognizes the brand, opens doors to local
-              customers, budget-friendly, and a great tool for functionality and
-              rich reporting. All these characteristics facilitate growth in
-              business.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>5. Are PPC results measurable?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-              Google and Bing supply with certain full-proved metrics that will
-              help you to measure PPC results. Google has added certain words in
-              the Ad words Glossary that can determine the test results.
-              Clicks:- The number of times when someone clicks on your ads is
-              addressed as clicks. Impressions:- In a search results page, the
-              number of times your ad is displayed is known as impressions.
-              Cost:- The number of click calculated in total amounts to cost.
-              Click Through Rate (CTR):- The result obtained by dividing the
-              percentage of clicks divided by Impressions. Average Cost per
-              Click (CPC):- When the total cost is divided by the number of
-              clicks, you get CPC. Average Position:- The place in the results
-              page obtained by your ad is considered to be the average position.
-              Impression Share:- The percentage or the approximation your ad
-              could have been seen vs. the actual number of times it was shown.
-              Conversions:- Within a specific period, how many times someone
-              clicked on an ad and completed action is defined as a conversion.{" "}
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>6. What is Quality Score?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-              A Google Quality Score or Quality Score refers to a Google metric
-              that is used to determine the relevancy and usefulness of your ad
-              to the user. The determination of the two main vital points is
-              based formerly on your keyword relevancy; ad’s CTR and the landing
-              page’s quality. Higher quality score will yield you better
-              rankings of the ad and save money. It is only a part of the
-              advertisement positioning process. Google’s quality score has been
-              emerging higher and higher with passing years. It can determine
-              your cost per click or CPC. It can also rank in the ad auction
-              process keeping maximum bid as a determinant.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
-
-        <Accordion>
-          <AccordionSummary
-            expandIcon={<ArrowDownwardIcon />}
-            aria-controls="panel1-content"
-            id="panel1-header"
-          >
-            <Typography>7. Should PPC be used by big bands only?</Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>
-              You should bid on big brands so that you can dominate your search
-              engine results. On clicking with some great brands, you can
-              control your messaging. There are acute chances that your
-              competitors might crossover your territory using the big brands.
-              So, beforehand, you should take over the opportunity. Brands will
-              accelerate the rate of buying decisions from current prospects.
-              People clicking on branded terms formulate the landing pages and
-              thus increasing the conversion rates. Damages can be controlled
-              without coming in the notice of press coverage. These are the
-              reasons you should aid your website with branded PPC campaign{" "}
+              Phanom Professionals is E-Commerce website builder that supports
+              in the launch of your E-Commerce business hastily and
+              successfully. Build your E-Commerce website with Phanom and
+              acquire everything you need to scale for a successful online
+              business. From thoughtful website design to must-have features, &
+              advanced E-Commerce solutions.
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -215,22 +87,91 @@ function Sec12() {
             id="panel1-header"
           >
             <Typography>
-              8. Does pay per click marketing services available in Chandigarh?
+              4. How do I choose a name for my E-Commerce website?
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-              Pay per Click (PPC) is a channel or an en route to uplift the web
-              activity and online permeability of business. Through paid
-              postings on Search engines, PPC indulges in ‘purchasing activity.’
-              Various marketing agencies deal in PPC in Chandigarh. Those
-              agencies provide marketing services in different fields. They
-              campaign mapping, diminish negative keywords, advertises the
-              creation of content, greeting page optimization, perform
-              geo-targeted PPC, analyzes, and monitors reports. High business
-              threads demand high watchwords. To lead an exchange, you need a
-              solid purpose. PPC enhances the number of traffic and is easily
-              available in Chandigarh.
+              It is an essential part of establishing your business. Pick a name
+              that best fits your brand. Type in your business’ industry, any
+              keywords relevancy to your brand of business name ideas that will
+              assist your brand on E-Commerce website.
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>5. My E-Commerce website, Where can I host?</Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+              Secure and free web hosting as soon as you publish your site. Your
+              site runs on the unified power of Google Cloud, AWS and Fastly.
+              This multi-cloud hosting improves your load times and provides
+              full global coverage.
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              6. Without any coding skills or design, can I still use?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+              Yes. Business on our platform, You can create your E-Commerce
+              website entirely from a blank canvas or customize for your
+              business needs.
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>7. How do you test for quality?</Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+              Phanom Professionals has a fanatical team that takes on the tasks
+              of testing and maintaining the website. There are a series of
+              research methods. Checking the application on various platforms
+              and devices are done before deploying them for final
+              implementation.
+            </Typography>
+          </AccordionDetails>
+        </Accordion>
+
+        <Accordion>
+          <AccordionSummary
+            expandIcon={<ArrowDownwardIcon />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+          >
+            <Typography>
+              8. How much time will it take to prepare website?
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails>
+            <Typography>
+              Our experts will calculate the length of time needed based on the
+              work they are assigned. Which is why we also address all the
+              relevant specifications and then settle on the time needed to
+              complete the work.
             </Typography>
           </AccordionDetails>
         </Accordion>

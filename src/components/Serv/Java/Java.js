@@ -7,6 +7,7 @@ import Sec5 from './Sec5'
 import Sec6 from './Sec6'
 import Sec8 from './Sec8'
 import Sec7 from './Sec7'
+import Sec9 from './Sec9'
 // import Testmonial from './Testmonial'
 
 
@@ -20,6 +21,7 @@ function Java() {
         <Sec8/>
         <Sec4/>
         <Sec6/>
+        <Sec9/>
         <Sec7/>
         {/* <Testmonial/> */}
         

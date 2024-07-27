@@ -11,14 +11,11 @@ function Sec6() {
               What We Do For You
             </span> */}
               <h2 className="title tg-element-title">
-                Java Website Development Services Provider, Your Business Model
-                Companion.
+              As Magento Development Service Provider, Phanom
+Professionals Is Here
               </h2>
               <p>
-                Our Adherence with the java development website is quite
-                infuriating for the eCommerce business solutions, techy
-                expertise and to the top performing back and front services has
-                recognized the development criteria to a next level.
+              Our Adherence with the Magento development Framework is quite infuriating for the ecommerce business solutions, techy expertise and to the top performing back and front services has recognized the development criteria to a next level.
               </p>
             </div>
           </div>

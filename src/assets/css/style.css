@@ -3206,7 +3206,7 @@ label {
 /* features-three */
 .features-area-three {
   position: relative;
-  padding: 60px 0 90px;
+  padding: 60px 0 40px;
   overflow: hidden;
 }
 .features-area-three::before {

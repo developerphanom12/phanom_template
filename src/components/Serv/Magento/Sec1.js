@@ -22,10 +22,18 @@ export default function Sec1() {
                   We Are Expert In This Field
                 </span> */}
                 <h2 className="title" data-aos="fade-up" data-aos-delay="300">
-                Take A Task To Ecommerce Platform With DEVELOPMENT SERVICES INDIA
+                  Take A Task To Ecommerce Platform With DEVELOPMENT SERVICES
+                  INDIA
                 </h2>
                 <p data-aos="fade-up" data-aos-delay="500">
-                An intelligent idea to offer stupendous and justifiable captivating approach is the right amalgam of perfect technology and shopping experience across every device. For Magento ecommerce development we focus is delivering an exceptional & remarkable customer experience. Phanom Professionals acts on satisfactory – tested development process to vintage the best surplus through our near to perfect strategic planning.
+                  An intelligent idea to offer stupendous and justifiable
+                  captivating approach is the right amalgam of perfect
+                  technology and shopping experience across every device. For
+                  Magento ecommerce development we focus is delivering an
+                  exceptional & remarkable customer experience. Phanom
+                  Professionals acts on satisfactory – tested development
+                  process to vintage the best surplus through our near to
+                  perfect strategic planning.
                 </p>
                 <div className="banner-btn">
                   <Link
