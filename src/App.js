@@ -36,7 +36,7 @@ import { useWow } from "./lib/hooks/useWow";
 import { useAos } from "./lib/hooks/useAos";
 import { useJarallax } from "./lib/hooks/useJarallax";
 import Seo from "./components/Serv/SEO/Seo";
-import SocialMediaMarketing from "./components/Serv/SocialMediaMarketing/SocialMediaMarketing";
+import SocialMediaMarketing from "./components/Serv/Socialmedia/Socialmedia";
 import YoutubeMarketing from "./components/Serv/YoutubeMarketing/YoutubeMarketing";
 import PayPerClick from "./components/Serv/PayPerClick/PayPerClick";
 import WebDevelopment from "./components/Serv/WebDevelopment/Webdevelopment";
@@ -51,6 +51,11 @@ import ECommerceMarketing from "./components/Serv/ECommerceMarketing/ECommerceMa
 import AmazonMarketing from "./components/Serv/AmazonMarketing/AmazonMarketing";
 import Wordpress from "./components/Serv/Wordpress/Wordpress";
 import Php from "./components/Serv/Php/Php";
+import VideoMarketing from "./components/Serv/VideoMarketing/VideoMarketing";
+import Branding from "./components/Serv/Branding/Branding";
+import PackagingandLabeling from "./components/Serv/PackagingandLabeling/PackagingandLabeling";
+import Socialmedia from "./components/Serv/Socialmedia/Socialmedia";
+
 
 
 function App() {
@@ -126,6 +131,14 @@ function App() {
         <Route path="amazonmarketing" element={<AmazonMarketing/>}/>
         <Route path="wordpress" element={<Wordpress/>}/>
         <Route path="Php" element={<Php/>}/>
+        <Route path="videomarketing" element={<VideoMarketing/>}/>
+        <Route path="branding" element={<Branding/>}/>
+        <Route path="packagingandlabeling" element={<PackagingandLabeling/>}/>
+        <Route path="Socialmedia" element={<Socialmedia/>}/>
+
+
+
+
 
 
 

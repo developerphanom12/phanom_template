@@ -11,11 +11,17 @@ function Sec10() {
             <div className="about-content">
               <div className="section-title mb-25 tg-heading-subheading animation-style2">
                 <h2 className="title tg-element-title">
-                    Put On Ice To Preserve Your Viewers With Your Potential!
+                Be More Zealous With Our
+
+                </h2>
+
+                <h2 className="title tg-element-title">
+                Social Media Services
+ 
                 </h2>
               </div>
               <p>
-              Brand you will become for the users will definitely take your aim higher and higher with our consultation.
+              Let’s see how your social media will be maintained for the intense rise, schedule your time with us today!
               </p>
             </div>
           </div>

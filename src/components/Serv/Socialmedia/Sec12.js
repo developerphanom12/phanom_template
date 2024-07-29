@@ -4,19 +4,7 @@ import bb from "../../../assets/img/custom/bb.jpg";
 import cc from "../../../assets/img/custom/cc.png";
 import aa from "../../../assets/img/custom/aa.png";
 
-
-
-
-
-function Sec4() {
-  const list = [
-    "Full Stack Development",
-    "E-Commerce Web Development",
-    "Content Management Systems",
-    "B2B E-Commerce Solutions",
-    "Web Database",
-    "Web Applications",
-  ];
+function Sec12() {
   return (
     <section className="about-area-three">
       <div className="container">
@@ -53,35 +41,36 @@ function Sec4() {
               <div className="section-title-two mb-20 tg-heading-subheading animation-style3">
                 {/* <span className="sub-title">Get To know US</span> */}
                 <h2 className="title tg-element-title">
-                Your WIZARD OF BEHIND THE SENSES To Make Efforts Presentable
+                  Your Social Media Marketing Patron And Partner With (P3)
+                  Expertise - PREPARE, PERFORM, AND PROSPER
                 </h2>
               </div>
               <p className="info-one">
-                   Your “WIZARD OF BEHIND THE SENSES” To Make Efforts Presentable Being a professional our ideal agenda in this cutthroat Competitive market is to reserve the higher rank with client satisfaction. The brilliant piece of frame work is done on both front and back-end and managing the data on the server as well, we are best to facilitate for the best and to stand along to PREPARE, PERFORM, AND PROSPER for the best.
+                Being a Social Media Marketing Company in Mumbai our ideal
+                agenda in this cutthroat market is to reserve the higher rank
+                with client satisfaction. The rank follows you wherever you
+                render with us, as we are best to facilitate for the best and to
+                stand along to PREPARE, PERFORM, AND PROSPER for the best. The
+                media partner in our acquisition will help you to transit the
+                best of your brand with us.
               </p>
 
-              <div className="about-list-two">
-                <ul className="list-wrap">
-                  {list.map((item, idx) => (
-                    <li key={idx}>
-                      <i className="fas fa-arrow-right"></i> {item}
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              {/* <p>
-                Morem ipsum dolor sit amet, consectetur adipiscing elita florai
-                psum dolor sit amet, consecteture.
-              </p> */}
-
+              <ul>
+                <li>Facebook Marketing</li>
+                <li>Instagram Marketing</li>
+                <li>Twitter Marketing</li>
+                <li>LinkedIn Marketing</li>
+                <li>YouTube Marketing</li>
+                <li>Pinterest Marketing</li>
+              </ul>
             </div>
           </div>
         </div>
       </div>
       <div className="about-shape-wrap-two">
-      <img src={aa} alt="img" />
-         <img src={cc} alt="img" />
-        
+        <img src={aa} alt="img" />
+        <img src={cc} alt="img" />
+
         {/* <img
           src={aa}
           alt="img"
@@ -93,4 +82,4 @@ function Sec4() {
   );
 }
 
-export default Sec4;
+export default Sec12;

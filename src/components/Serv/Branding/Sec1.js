@@ -22,13 +22,21 @@ export default function Sec1() {
                   We Are Expert In This Field
                 </span> */}
                 <h2 className="title" data-aos="fade-up" data-aos-delay="300">
-    
-                A Launch Of New Era Of Web Development, Here We Are
+                  Find The Right -Talent Services Under One Roof
                 </h2>
                 <p data-aos="fade-up" data-aos-delay="500">
-                Channel of our dimension to perform and execute best in the Web Development Services, Phanom Professionals are doing the same with the Web Development as a requisite form of expertise. The fine line of work and artefact are vital for making a small vision – a bigger picture. The use of computing languages are used and focused for making the web page to perform efficient and sleek. The liberty to design new stuff on and for the web page is defined by the tested protocols behind it.
-
+                  This is the radiance of Phanom Professionals, meticulously
+                  built over years and years of continuous work. Branding is the
+                  act of linking a product / service & ideas to make purposely
+                  intelligible, which make us Best in Industry.
                 </p>
+
+                <h2 className="title" data-aos="fade-up" data-aos-delay="300">
+                  Popular:
+                </h2>
+
+                <p>LOGO DESIGN, VIDEO MARKETING, BRANDING</p>
+
                 <div className="banner-btn">
                   <Link
                     to="/"
@@ -38,13 +46,7 @@ export default function Sec1() {
                   >
                     CONNECT WITH US
                   </Link>
-{/* 
-                  <VideoPlayerOne
-                    src="https://www.youtube.com/embed/XMWYZ-uZjnQ"
-                    text="Watch The Video"
-                    data-aos="fade-left"
-                    data-aos-delay="700"
-                  /> */}
+                 
                 </div>
               </div>
             </div>
@@ -63,17 +65,10 @@ export default function Sec1() {
         <div className="banner-shape-wrap">
           <img src={a} alt="" />
           <img src={b} alt="" />
-          <img
-            src={c}
-            alt=""
-            data-aos="zoom-in-up"
-            data-aos-delay="800"
-          />
+          <img src={c} alt="" data-aos="zoom-in-up" data-aos-delay="800" />
         </div>
       </section>
     </Root>
   );
 }
-const Root = styled.section`
-
-`;
+const Root = styled.section``;

@@ -6,7 +6,6 @@ import goal from "../../../assets/img/custom/gaol.jpg";
 
 import dot from "../../../assets/img/custom/dot.png";
 
-
 function Sec6() {
   return (
     <section className="overview-area pt-4 pb-120">
@@ -20,8 +19,8 @@ function Sec6() {
           <div className="col-lg-6 col-md-10">
             <div className="overview-img-wrap">
               <img src={baby} alt="" />
-            <img src={goal} alt="" data-parallax='{"x" : 50 }' />
-            <img src={dot} alt="" /> 
+              <img src={goal} alt="" data-parallax='{"x" : 50 }' />
+              <img src={dot} alt="" />
               <div className="icon">
                 <i className="flaticon-report-1"></i>
               </div>
@@ -31,14 +30,28 @@ function Sec6() {
             <div className="overview-content">
               <div className="section-title-two mb-20 tg-heading-subheading animation-style3">
                 {/* <span className="sub-title">Company Overview</span> */}
+                <h2 className="title tg-element-title">Clear and precise</h2>
+                <p className="info-one">
+                  Message must be clear and cut to the point, that’s what the
+                  crowed ask for, well this is the one clear reason that videos
+                  are the best made by us.
+                </p>
                 <h2 className="title tg-element-title">
-                Performing With Proximity And Solvency
-
+                  End-to-end, and fully managed
                 </h2>
-
+                <p className="info-one">
+                  The reason why video marketing services are in huge demand
+                  across the world, from small to giants. They need _ production
+                  in just a click.
+                </p>
+                <h2 className="title tg-element-title">Dynamic and evergreen </h2>
+                <p className="info-one">
+                  Fun and engaging video content that can be watched in every
+                  era that’s the CREATIVITY which makes us dynamic & evergreen
+                  just like the videos.
+                </p>
               </div>
-              <p className="info-one">
-              Launching apps for systematic software development with offering growth within your hands, we render all expertise to get on work. There are a variety of actions we take to actively grow your business, reach new clients, and make more reliable approach along the way in Web Development.</p>
+
               {/* <div className="content-bottom">
               <ul className="list-wrap">
                 <li>

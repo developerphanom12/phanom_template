@@ -1,7 +1,7 @@
 import React from "react";
 import { CHOOSE_SHAPE } from "../../../lib/assets";
 
-function Sec3() {
+function Sec15() {
   return (
     <section className="choose-area jarallax choose-bg">
       <div className="choose-shape">
@@ -18,12 +18,17 @@ function Sec3() {
             <div className="choose-content">
               <div className="section-title-two white-title mb-20 tg-heading-subheading animation-style3">
                 <h2 className="title tg-element-title">
-                We're Phanom Professionals, Your Growth Partner
+                  Engaging, Entertaining,Exploring
                 </h2>
               </div>
               <p>
-                With changing scenario of  Web Development is a technical aspect of perfection background is well known practice we precisely take care of. The technicality of framing a website or page is based on the high level Languages and frame works with the programmed to run in the background that act as the support system of each task performed on that site or page. Get consult with India’s best Web Development Company!
+              Diversity of content we prefer to deliver. We intend to bestow an exceptional marks and bring a impressive video invention practise to our clients.
               </p>
+              
+              <p>Video Production</p>
+              <p>Video Editing</p>
+              <p>Video Marketing</p>
+              
             </div>
           </div>
         </div>
@@ -32,4 +37,4 @@ function Sec3() {
   );
 }
 
-export default Sec3;
+export default Sec15;
